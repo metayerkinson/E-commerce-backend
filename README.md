@@ -38,17 +38,17 @@ THEN I am able to successfully create, update, and delete data in my database
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
-![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./develop/images/get-all-demo.gif)
+![In Postman, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./develop/demo-gifs/get-all-demo.gif)
 
-The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
+The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Postman:
 
-![In Insomnia, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”](./develop/images/get-single-demo.gif)
+![In Postman, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”](./develop/demo-gifs/get-single-demo.gif)
 
-The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
+The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Postman:
 
-![In Insomnia, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./develop/images/categories-put-post-delete-demo.gif)
+![In Postman, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./develop/demo-gifs/categories-put-post-delete-demo.gif)
 
-Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
+Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Postman.
 
 ## Installation/Usage
 
